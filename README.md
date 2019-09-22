@@ -516,7 +516,8 @@ cd Bash-Snippets
 ```
 
 </details>
-
+  
+  
 
 ## Donate
 If this project helped you in any way and you feel like supporting me
