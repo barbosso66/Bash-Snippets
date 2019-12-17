@@ -515,9 +515,11 @@ cd Bash-Snippets
 ./uninstall.sh all
 ```
 
+
+</details>
+
 #### HackTheBox oneliner invite
 ```curl -s -X POST hackthebox.eu/api/invite/generate -L | cut -d: -f4 | cut -d\" -f2 | base64 -d```
-</details>
 
 
 ## Donate
